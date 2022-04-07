@@ -12,13 +12,6 @@
 
 <br>
 
-### Abstract 🗒️
-- 🇧🇷 Living in Brazil
-- 🌐 Web Development
-- 💻 Computer technician course student, 7th semester - IFMS
-
-<br>
-
 ## Interests 💡
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
