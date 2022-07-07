@@ -1,14 +1,9 @@
 ### Hello there, General YourName( );
 
-# I'm, Aaron <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="13px">👨‍💻
-
+# I'm, Aaron
 </br>
 
-<div align="center">   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviPalma&layout=compact&theme=react"/>
-    &nbsp;
-    
-</div>
+
 
 <br>
 
