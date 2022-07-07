@@ -1,6 +1,6 @@
-### Hello there, General YourName();
+### Hello there, General YourName( );
 
-# I'm, Aaron <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px">👨‍💻
+# I'm, Aaron <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="13px">👨‍💻
 
 </br>
 
